@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+}
+
+* .banner .banner-img {
+  width: 100%;
+}
+
+* .banner .banner-img .text {
+  background-image: url(./public/image/banner.jpg);
+  border: solid;
+}
+
+* .banner .banner-img .text span {
+  border: solid;
+}
+
+* .test-border {
+  border-bottom-color: white;
+}
+
+* .btn-btn {
+  background-color: white;
+  border-radius: 5px;
+  letter-spacing: 4px;
+  padding: 10px;
+}
+/*# sourceMappingURL=style.css.map */
